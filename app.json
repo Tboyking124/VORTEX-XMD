@@ -7,7 +7,7 @@
   "stack": "heroku-24",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session ID here.",
+      "description": "HansTz&65QlRB5D#bXQjJ7dTSAXLPkOUhzvTpcVOw13RBOoJw_h0umLQXJo",
       "required": true,
       "value": ""
     },
